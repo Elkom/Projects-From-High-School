@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="DBDemoModel.Store" Provider="System.Data.SQLite.EF6" ProviderManifestToken="Data Source=&quot;C:\Users\Elkom\Documents\School\R4\Programiranje\Projektni Zadatak\Projektni Zadatak Programiranje\DBDemoFile.db&quot;" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="UserPassTable">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="integer" Nullable="false" />
+    <Property Name="user" Type="nvarchar" MaxLength="2147483647" Nullable="false" />
+    <Property Name="pass" Type="nvarchar" MaxLength="2147483647" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="DBDemoModelStoreContainer">
+    <EntitySet Name="UserPassTable" EntityType="Self.UserPassTable" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

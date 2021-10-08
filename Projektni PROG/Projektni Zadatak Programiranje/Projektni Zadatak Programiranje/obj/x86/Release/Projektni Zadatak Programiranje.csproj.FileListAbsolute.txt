@@ -1,0 +1,46 @@
+C:\Users\Elkom\Documents\School\R4\Programiranje\Projektni Zadatak\Projektni Zadatak Programiranje\Projektni Zadatak Programiranje\bin\x86\Release\Projektni Zadatak Programiranje.exe
+C:\Users\Elkom\Documents\School\R4\Programiranje\Projektni Zadatak\Projektni Zadatak Programiranje\Projektni Zadatak Programiranje\bin\x86\Release\Projektni Zadatak Programiranje.pdb
+C:\Users\Elkom\Documents\School\R4\Programiranje\Projektni Zadatak\Projektni Zadatak Programiranje\Projektni Zadatak Programiranje\obj\x86\Release\Projektni_Zadatak_Programiranje.DevMenuEasterEgg.resources
+C:\Users\Elkom\Documents\School\R4\Programiranje\Projektni Zadatak\Projektni Zadatak Programiranje\Projektni Zadatak Programiranje\obj\x86\Release\Projektni_Zadatak_Programiranje.MainMenu_Form.resources
+C:\Users\Elkom\Documents\School\R4\Programiranje\Projektni Zadatak\Projektni Zadatak Programiranje\Projektni Zadatak Programiranje\obj\x86\Release\Projektni_Zadatak_Programiranje.Welcome_Form.resources
+C:\Users\Elkom\Documents\School\R4\Programiranje\Projektni Zadatak\Projektni Zadatak Programiranje\Projektni Zadatak Programiranje\obj\x86\Release\Projektni_Zadatak_Programiranje.Properties.Resources.resources
+C:\Users\Elkom\Documents\School\R4\Programiranje\Projektni Zadatak\Projektni Zadatak Programiranje\Projektni Zadatak Programiranje\obj\x86\Release\Projektni Zadatak Programiranje.csproj.GenerateResource.cache
+C:\Users\Elkom\Documents\School\R4\Programiranje\Projektni Zadatak\Projektni Zadatak Programiranje\Projektni Zadatak Programiranje\obj\x86\Release\Projektni Zadatak Programiranje.csproj.CoreCompileInputs.cache
+C:\Users\Elkom\Documents\School\R4\Programiranje\Projektni Zadatak\Projektni Zadatak Programiranje\Projektni Zadatak Programiranje\obj\x86\Release\Projektni Zadatak Programiranje.exe
+C:\Users\Elkom\Documents\School\R4\Programiranje\Projektni Zadatak\Projektni Zadatak Programiranje\Projektni Zadatak Programiranje\obj\x86\Release\Projektni Zadatak Programiranje.pdb
+C:\Users\Elkom\Documents\School\R4\Programiranje\Projektni Zadatak\Projektni Zadatak Programiranje\Projektni Zadatak Programiranje\bin\x86\Release\Projektni Zadatak Programiranje.exe.config
+C:\Users\Elkom\Documents\School\R4\Programiranje\Projektni Zadatak\Projektni Zadatak Programiranje\Projektni Zadatak Programiranje\bin\x86\Release\EntityFramework.dll
+C:\Users\Elkom\Documents\School\R4\Programiranje\Projektni Zadatak\Projektni Zadatak Programiranje\Projektni Zadatak Programiranje\bin\x86\Release\EntityFramework.SqlServer.dll
+C:\Users\Elkom\Documents\School\R4\Programiranje\Projektni Zadatak\Projektni Zadatak Programiranje\Projektni Zadatak Programiranje\bin\x86\Release\System.Data.SQLite.dll
+C:\Users\Elkom\Documents\School\R4\Programiranje\Projektni Zadatak\Projektni Zadatak Programiranje\Projektni Zadatak Programiranje\bin\x86\Release\System.Data.SQLite.EF6.dll
+C:\Users\Elkom\Documents\School\R4\Programiranje\Projektni Zadatak\Projektni Zadatak Programiranje\Projektni Zadatak Programiranje\bin\x86\Release\System.Data.SQLite.Linq.dll
+C:\Users\Elkom\Documents\School\R4\Programiranje\Projektni Zadatak\Projektni Zadatak Programiranje\Projektni Zadatak Programiranje\bin\x86\Release\EntityFramework.xml
+C:\Users\Elkom\Documents\School\R4\Programiranje\Projektni Zadatak\Projektni Zadatak Programiranje\Projektni Zadatak Programiranje\bin\x86\Release\EntityFramework.SqlServer.xml
+C:\Users\Elkom\Documents\School\R4\Programiranje\Projektni Zadatak\Projektni Zadatak Programiranje\Projektni Zadatak Programiranje\bin\x86\Release\System.Data.SQLite.xml
+C:\Users\Elkom\Documents\School\R4\Programiranje\Projektni Zadatak\Projektni Zadatak Programiranje\Projektni Zadatak Programiranje\bin\x86\Release\System.Data.SQLite.dll.config
+C:\Users\Elkom\Documents\School\R4\Programiranje\Projektni Zadatak\Projektni Zadatak Programiranje\Projektni Zadatak Programiranje\obj\x86\Release\Projektni_Zadatak_Programiranje.DBManager.resources
+C:\Users\Elkom\Documents\School\R4\Programiranje\Projektni Zadatak\Projektni Zadatak Programiranje\Projektni Zadatak Programiranje\obj\x86\Release\Projektni Zadatak Programiranje.csproj.CopyComplete
+C:\Users\Elkom\Documents\School\R4\Programiranje\Projektni Zadatak\Projektni Zadatak Programiranje\Projektni Zadatak Programiranje\obj\x86\Release\Projektni Zadatak Programiranje.csprojAssemblyReference.cache
+C:\Users\Elkom\Documents\School\R4\Programiranje\P1\Projektni Zadatak\Projektni Zadatak Programiranje\Projektni Zadatak Programiranje\bin\x86\Release\Projektni Zadatak Programiranje.exe.config
+C:\Users\Elkom\Documents\School\R4\Programiranje\P1\Projektni Zadatak\Projektni Zadatak Programiranje\Projektni Zadatak Programiranje\bin\x86\Release\Projektni Zadatak Programiranje.exe
+C:\Users\Elkom\Documents\School\R4\Programiranje\P1\Projektni Zadatak\Projektni Zadatak Programiranje\Projektni Zadatak Programiranje\bin\x86\Release\Projektni Zadatak Programiranje.pdb
+C:\Users\Elkom\Documents\School\R4\Programiranje\P1\Projektni Zadatak\Projektni Zadatak Programiranje\Projektni Zadatak Programiranje\bin\x86\Release\EntityFramework.dll
+C:\Users\Elkom\Documents\School\R4\Programiranje\P1\Projektni Zadatak\Projektni Zadatak Programiranje\Projektni Zadatak Programiranje\bin\x86\Release\EntityFramework.SqlServer.dll
+C:\Users\Elkom\Documents\School\R4\Programiranje\P1\Projektni Zadatak\Projektni Zadatak Programiranje\Projektni Zadatak Programiranje\bin\x86\Release\System.Data.SQLite.dll
+C:\Users\Elkom\Documents\School\R4\Programiranje\P1\Projektni Zadatak\Projektni Zadatak Programiranje\Projektni Zadatak Programiranje\bin\x86\Release\System.Data.SQLite.EF6.dll
+C:\Users\Elkom\Documents\School\R4\Programiranje\P1\Projektni Zadatak\Projektni Zadatak Programiranje\Projektni Zadatak Programiranje\bin\x86\Release\System.Data.SQLite.Linq.dll
+C:\Users\Elkom\Documents\School\R4\Programiranje\P1\Projektni Zadatak\Projektni Zadatak Programiranje\Projektni Zadatak Programiranje\bin\x86\Release\EntityFramework.xml
+C:\Users\Elkom\Documents\School\R4\Programiranje\P1\Projektni Zadatak\Projektni Zadatak Programiranje\Projektni Zadatak Programiranje\bin\x86\Release\EntityFramework.SqlServer.xml
+C:\Users\Elkom\Documents\School\R4\Programiranje\P1\Projektni Zadatak\Projektni Zadatak Programiranje\Projektni Zadatak Programiranje\bin\x86\Release\System.Data.SQLite.xml
+C:\Users\Elkom\Documents\School\R4\Programiranje\P1\Projektni Zadatak\Projektni Zadatak Programiranje\Projektni Zadatak Programiranje\bin\x86\Release\System.Data.SQLite.dll.config
+C:\Users\Elkom\Documents\School\R4\Programiranje\P1\Projektni Zadatak\Projektni Zadatak Programiranje\Projektni Zadatak Programiranje\obj\x86\Release\Projektni Zadatak Programiranje.csprojAssemblyReference.cache
+C:\Users\Elkom\Documents\School\R4\Programiranje\P1\Projektni Zadatak\Projektni Zadatak Programiranje\Projektni Zadatak Programiranje\obj\x86\Release\Projektni_Zadatak_Programiranje.DBManager.resources
+C:\Users\Elkom\Documents\School\R4\Programiranje\P1\Projektni Zadatak\Projektni Zadatak Programiranje\Projektni Zadatak Programiranje\obj\x86\Release\Projektni_Zadatak_Programiranje.DevMenuEasterEgg.resources
+C:\Users\Elkom\Documents\School\R4\Programiranje\P1\Projektni Zadatak\Projektni Zadatak Programiranje\Projektni Zadatak Programiranje\obj\x86\Release\Projektni_Zadatak_Programiranje.MainMenu_Form.resources
+C:\Users\Elkom\Documents\School\R4\Programiranje\P1\Projektni Zadatak\Projektni Zadatak Programiranje\Projektni Zadatak Programiranje\obj\x86\Release\Projektni_Zadatak_Programiranje.Welcome_Form.resources
+C:\Users\Elkom\Documents\School\R4\Programiranje\P1\Projektni Zadatak\Projektni Zadatak Programiranje\Projektni Zadatak Programiranje\obj\x86\Release\Projektni_Zadatak_Programiranje.Properties.Resources.resources
+C:\Users\Elkom\Documents\School\R4\Programiranje\P1\Projektni Zadatak\Projektni Zadatak Programiranje\Projektni Zadatak Programiranje\obj\x86\Release\Projektni Zadatak Programiranje.csproj.GenerateResource.cache
+C:\Users\Elkom\Documents\School\R4\Programiranje\P1\Projektni Zadatak\Projektni Zadatak Programiranje\Projektni Zadatak Programiranje\obj\x86\Release\Projektni Zadatak Programiranje.csproj.CoreCompileInputs.cache
+C:\Users\Elkom\Documents\School\R4\Programiranje\P1\Projektni Zadatak\Projektni Zadatak Programiranje\Projektni Zadatak Programiranje\obj\x86\Release\Projektni Zadatak Programiranje.csproj.CopyComplete
+C:\Users\Elkom\Documents\School\R4\Programiranje\P1\Projektni Zadatak\Projektni Zadatak Programiranje\Projektni Zadatak Programiranje\obj\x86\Release\Projektni Zadatak Programiranje.exe
+C:\Users\Elkom\Documents\School\R4\Programiranje\P1\Projektni Zadatak\Projektni Zadatak Programiranje\Projektni Zadatak Programiranje\obj\x86\Release\Projektni Zadatak Programiranje.pdb

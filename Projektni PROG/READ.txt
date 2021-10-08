@@ -1,0 +1,13 @@
+"Elmin Softic Projektni 32bit" je zip fajl koji se sam ekstraktuje.
+Sadrzi gotovi program i sve fajlove potrebne da radi bez visual studio i slicno.
+
+"Projektni Zadatak Programiranje" sadrzi kod i sve fajlove potrebne za pregled koda.
+
+"Project Files" sadrzi slike koje se koriste u programu.
+
+Baza je bazirana na SQLite paketima. Svi SQLite fajlovi su u projektnom folderu.
+Ako nema baze, mozete je napraviti pomocu DBManager programa kojeg sam integrisao
+u developer menu svog programa. 
+Da otvorite developer menu pritisnite samo ~ na tastaturi, nije bitno koja.
+
+Baza je jednostavno login na prvoj stranici demo programa.

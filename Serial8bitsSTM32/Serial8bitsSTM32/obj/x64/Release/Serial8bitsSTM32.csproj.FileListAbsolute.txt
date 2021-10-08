@@ -1,0 +1,14 @@
+D:\Programs\Serial8bitsSTM32\Serial8bitsSTM32\bin\x64\Release\Serial8bitsSTM32.exe.config
+D:\Programs\Serial8bitsSTM32\Serial8bitsSTM32\bin\x64\Release\Serial8bitsSTM32.exe
+D:\Programs\Serial8bitsSTM32\Serial8bitsSTM32\bin\x64\Release\Serial8bitsSTM32.pdb
+D:\Programs\Serial8bitsSTM32\Serial8bitsSTM32\obj\x64\Release\Serial8bitsSTM32.csprojAssemblyReference.cache
+D:\Programs\Serial8bitsSTM32\Serial8bitsSTM32\obj\x64\Release\Serial8bitsSTM32.Form1.resources
+D:\Programs\Serial8bitsSTM32\Serial8bitsSTM32\obj\x64\Release\Serial8bitsSTM32.Form2.resources
+D:\Programs\Serial8bitsSTM32\Serial8bitsSTM32\obj\x64\Release\Serial8bitsSTM32.Form3.resources
+D:\Programs\Serial8bitsSTM32\Serial8bitsSTM32\obj\x64\Release\Serial8bitsSTM32.Form4.resources
+D:\Programs\Serial8bitsSTM32\Serial8bitsSTM32\obj\x64\Release\Serial8bitsSTM32.Form5.resources
+D:\Programs\Serial8bitsSTM32\Serial8bitsSTM32\obj\x64\Release\Serial8bitsSTM32.Properties.Resources.resources
+D:\Programs\Serial8bitsSTM32\Serial8bitsSTM32\obj\x64\Release\Serial8bitsSTM32.csproj.GenerateResource.cache
+D:\Programs\Serial8bitsSTM32\Serial8bitsSTM32\obj\x64\Release\Serial8bitsSTM32.csproj.CoreCompileInputs.cache
+D:\Programs\Serial8bitsSTM32\Serial8bitsSTM32\obj\x64\Release\Serial8bitsSTM32.exe
+D:\Programs\Serial8bitsSTM32\Serial8bitsSTM32\obj\x64\Release\Serial8bitsSTM32.pdb
